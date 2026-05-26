@@ -1,5 +1,7 @@
 # MeshGuard Rust SDK
 
+> **Maintenance mode:** this SDK remains supported for security patches, bug fixes, and compatibility. New agent-governance features are moving to AGT + MeshGuard and the OSS guardian/egress components. Existing Rust integrations can keep this client while new enforcement layers land in the control plane.
+
 Rust client for the [MeshGuard](https://meshguard.app) governance gateway.
 
 MeshGuard enables policy-based governance for AI agents and automated workflows. This SDK provides async methods for policy evaluation, enforcement, and administration.
