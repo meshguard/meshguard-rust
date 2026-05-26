@@ -1,6 +1,6 @@
 # MeshGuard Rust SDK
 
-> **Maintenance mode:** this SDK remains supported for security patches, bug fixes, and compatibility. New agent-governance features are moving to AGT + MeshGuard and the OSS guardian/egress components. Existing Rust integrations can keep this client while new enforcement layers land in the control plane.
+> **Ecosystem expansion:** this SDK remains a first-class MeshGuard path for Rust agents and services. AGT-compatible policy, guardian sidecar, and egress enforcement add additional paths for mixed fleets; they complement this SDK and the rest of the MeshGuard ecosystem.
 
 Rust client for the [MeshGuard](https://meshguard.app) governance gateway.
 
